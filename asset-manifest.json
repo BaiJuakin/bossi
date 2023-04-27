@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bossi/static/css/main.adee0713.css",
+    "main.js": "/bossi/static/js/main.1deab60c.js",
+    "index.html": "/bossi/index.html",
+    "main.adee0713.css.map": "/bossi/static/css/main.adee0713.css.map",
+    "main.1deab60c.js.map": "/bossi/static/js/main.1deab60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adee0713.css",
+    "static/js/main.1deab60c.js"
+  ]
+}
